@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8190478556753933146
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7472411508933856448}
+  - component: {fileID: 4805442252895403005}
+  m_Layer: 0
+  m_Name: Cheese burger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7472411508933856448
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8190478556753933146}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4805442252895403005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8190478556753933146}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4898a152db24aa68d6a7876374395d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: Cheese Burger
+  Ingredients:
+  - {fileID: 7852343959766556027, guid: 2b5b19d5a7390a94c987a4af2ecef785, type: 3}
+  - {fileID: -1542664877489326041, guid: 2aaad89a3da97424f9a084ab48abb7d8, type: 3}
+  - {fileID: 7149937681080421361, guid: 0ed860f1d9d121448afc70e9bdcd21c5, type: 3}
+  - {fileID: 6091870976020289845, guid: acbe6321b24437f45a85c95432b7a895, type: 3}

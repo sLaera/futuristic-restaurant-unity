@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: ae398acfab106854994e1a17743badd0
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buccia3
+    second: {fileID: 2100000, guid: c8510c21f49a2d6469251e6296c5e357, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CABLE
+    second: {fileID: 2100000, guid: d6cec8b8745f56b4ebd29bf5ff4331f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GIALLO FORMAGGIO
+    second: {fileID: 2100000, guid: edfa3fdcc4e504f40a95c7dcc4307113, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GLASS_FRIDGE
+    second: {fileID: 2100000, guid: b2b8a9df26f2db549840bea6651ade9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: 74f68a52cd6b5c84781bbf357fc8eac4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green
+    second: {fileID: 2100000, guid: 5e24ce0cebfdcbf4c86a3929cb4e9364, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HARD PLASTIC_FRIDGE
+    second: {fileID: 2100000, guid: a4fc6f3c0770fb84284f3f7e2059ef76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LAMP
+    second: {fileID: 2100000, guid: d31ef5fdce6d2b840b43f5e6554b6856, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Latte
+    second: {fileID: 2100000, guid: 7a1efcca963e61849ac95faddcddb14f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: METAL_FRIDGE
+    second: {fileID: 2100000, guid: f3aadac5838df3a4db2a874ad63a2563, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 99d6ac1fd4d8c3845bbaa7ee7a99e5dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 5f4f3a7da241ed54ab75262e5fac5261, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 281c8f7caeda842449c82a5e8a9f2f95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Milk
+    second: {fileID: 2100000, guid: 20acfb90235f87243bbbe97e21511461, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PANE
+    second: {fileID: 2100000, guid: 239aa3a1de7c67547a645082407cce91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red
+    second: {fileID: 2100000, guid: 3714dc1486ce9bc4dadbe332e8fb4f2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Salad
+    second: {fileID: 2100000, guid: 6d57e03e62f8bac4b89c780a18821517, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Slice2
+    second: {fileID: 2100000, guid: 2e7bb27cc07a0c449b533f3b093e0696, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Slice3
+    second: {fileID: 2100000, guid: e53aefc5d0b3def4597c5aac44b47104, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stem
+    second: {fileID: 2100000, guid: 7312e3aef88dfab4f970c63b6c19a7d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stem.001
+    second: {fileID: 2100000, guid: dfd71dc43c103604d8ffd74052410759, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: b577caa271142d943bf8362dde90e4a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chiaro_cupcake
+    second: {fileID: 2100000, guid: 3b0dea447592abc46beb8cc510875c04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chutter
+    second: {fileID: 2100000, guid: cfd0eb751b672284d9ceb08201d837d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chutter.001
+    second: {fileID: 2100000, guid: a0e3f9c12a8284646b3dabec066b03d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cipolla
+    second: {fileID: 2100000, guid: 111f93d9fa72de94d8cbe4a94bd8429f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cookie
+    second: {fileID: 2100000, guid: 466ca467fa0f9d44e823666a7ec04ead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cookie_LP
+    second: {fileID: 2100000, guid: 1cf2587069a17a241b4bc015986ccb6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cookie_var_02_lp
+    second: {fileID: 2100000, guid: 605ad05876b07674c81f0c6cabc0f87d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cornetto
+    second: {fileID: 2100000, guid: bc2f401e9d8e276478c2f5cef68fdf60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cornetto_girella
+    second: {fileID: 2100000, guid: 31534fa4ae7958740aff1f1a4f60abcd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crema_cupcake
+    second: {fileID: 2100000, guid: 4b0e76b040c2ad6469adffa59ffce8ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: etichettalattina
+    second: {fileID: 2100000, guid: 302755c15a28c3944bcc3dae75978d39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: formaggio
+    second: {fileID: 2100000, guid: 36eb7833d71d81042bd2fb30a6cfd3d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: franki
+    second: {fileID: 2100000, guid: d5451ce36e24bac41a1f4b4096b50d71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: franki.001
+    second: {fileID: 2100000, guid: ad9efe33b517dd642a3198ea380537b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: franki.002
+    second: {fileID: 2100000, guid: dcd4067ec10eddb4497aabc77149d2f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: legno
+    second: {fileID: 2100000, guid: 897885279173dfb4a936f658a3480401, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lp
+    second: {fileID: 2100000, guid: 3c47aa5c230e75b468220a4cfabeb521, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metallo frigo
+    second: {fileID: 2100000, guid: 0d4efd7dc7e6d2a44ad15114315612fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mieleetichetta
+    second: {fileID: 2100000, guid: de1a60d605da57a43a742ffd515a6364, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nero
+    second: {fileID: 2100000, guid: 8a950645d19db9e4b9ae1629109d05e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nero1
+    second: {fileID: 2100000, guid: 832d31def031af34ca30ad5215b5673c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nesquik
+    second: {fileID: 2100000, guid: af7f636e2e870af42b6b1415baec49a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: noodles
+    second: {fileID: 2100000, guid: 55e304ec9bf49724cb13c9238fd8810b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oro
+    second: {fileID: 2100000, guid: 4300e065c7e57b8419a15d55f3f606c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oromiele
+    second: {fileID: 2100000, guid: a4be3efdd63f63446844edd4bbdf655d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pacco_biscotti
+    second: {fileID: 2100000, guid: 8fe35d3d9c24f174085cf9243eb41282, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: painted metal
+    second: {fileID: 2100000, guid: 932616f8c11c5354a8056acda278155e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panescaffale
+    second: {fileID: 2100000, guid: 914111b976ba7f141b8d5ecbdde90ce9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phil
+    second: {fileID: 2100000, guid: af18c19bf6451f6449be9bc4a6b8080a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pomodoro
+    second: {fileID: 2100000, guid: fa8b7a4c5c0b2174093117c21d98e58b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: prosciutto
+    second: {fileID: 2100000, guid: 7749a0e510d2f7a4cb4d49dda3b5e2b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: random color.001
+    second: {fileID: 2100000, guid: 5bf577c3f98af9a48ba63aabf5ccabe4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_grape
+    second: {fileID: 2100000, guid: b780cf193ab6a11469bbb96e00fbcdf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rosso frigo
+    second: {fileID: 2100000, guid: 45471fa95f1c9234f8ecb68a8923f1ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rosso succo
+    second: {fileID: 2100000, guid: 1584911939c881648b765d49184b9926, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rosso1
+    second: {fileID: 2100000, guid: 81a0990dc1e66d146ad6162be4b16b4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: salame
+    second: {fileID: 2100000, guid: d522ade0a6b65b3488152899ddf49630, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sotto_chiaro
+    second: {fileID: 2100000, guid: 87926dd9ebe76754487155cf20cfe939, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: succo
+    second: {fileID: 2100000, guid: 0014153115f7de1459b3168c2d6c1a48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supermarket
+    second: {fileID: 2100000, guid: 61b1990178a3c15468b3d3946831fbbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: uovochiaro
+    second: {fileID: 2100000, guid: e9c0dfba4c3b6404da8d6abdcb6c4119, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: uovoscuro
+    second: {fileID: 2100000, guid: ef1588d9aac89ec418ce06157b74d4d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zucca
+    second: {fileID: 2100000, guid: 01a47d42edaed3541ad2fd0dd3578714, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\uD3EC\uB3C4\uC78E.001"
+    second: {fileID: 2100000, guid: 72e479b521e91b24e86e596f54468c40, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

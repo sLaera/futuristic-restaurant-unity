@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - personaggio
+  - light
+  - light_tag
+  - start
+  - ingrediente
+  - piatto
+  - campanello
+  - bottone
+  - RobotStartPosition
+  - pane
+  - BuyButton
+  - cassa_supermercato
+  - testo_qta
+  - skip_button
+  - add_button
+  - remove_button
+  - music
+  - manager
+  - robot
+  - mieingred
+  - salsa
+  - riepilogo_ordini
+  - loading
+  - music_background
+  - robot_follow
+  - RobotCameriere
+  - LastMinuteScreen
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

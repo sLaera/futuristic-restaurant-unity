@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9f702a338cd56354b819b5c552871ca3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fpsCamera: {instanceID: 0}
+  - suonoCampanella: {fileID: 8300000, guid: caeb686a9a23a4649b2172e938eb550a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

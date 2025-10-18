@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Game Manager.unity
+    guid: 31310d875f4b6be47897fab6abce5bdb
+  - enabled: 1
+    path: Assets/Scenes/start_menu.unity
+    guid: 135c4c02963312448863a91cbc4adbc2
+  - enabled: 1
+    path: Assets/Scenes/Fast Food Scene table area.unity
+    guid: 7502f89461eddb34a8550bd2e6541aaa
+  - enabled: 1
+    path: Assets/Scenes/Ambientazione.unity
+    guid: 79b54fdd6f18b0549805ba11c4ca39ad
+  - enabled: 1
+    path: Assets/Scenes/Dialog scene.unity
+    guid: b846527c02c1d2541a42d79178c9b660
+  - enabled: 1
+    path: Assets/Scenes/Fast Food Exterior only.unity
+    guid: b741d5a07d413ad4e874a64bd18c18da
+  - enabled: 1
+    path: Assets/Scenes/Guida (Informazioni).unity
+    guid: d4a42443dddc2e64390458cdaa24220a
+  - enabled: 1
+    path: Assets/Scenes/music.unity
+    guid: f865aed2509c78c4ab2bd473310982da
+  - enabled: 1
+    path: Assets/Scenes/scena_piazza.unity
+    guid: e583cb928744fee4d8a3096f553496d9
+  - enabled: 1
+    path: Assets/Scenes/supermercato.unity
+    guid: 63f880f12d23c8242a2d71b9711dee9c
+  m_configObjects: {}
