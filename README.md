@@ -7,6 +7,10 @@ This project was developed as part of the *Virtual Reality* course at Politecnic
 **Futuristic Restaurant VR** is a game designed to introduce players to the management of a futuristic restaurant.  
 The experience focuses on the cooking mechanics and money management to engage users in both fun and managerial aspects of restaurant operation.
 
+<img width="1500" height="720" alt="Screenshot 2025-10-22 154533" src="https://github.com/user-attachments/assets/686619b3-9099-46ff-9000-24efa64a13c4" />
+<img width="1541" height="993" alt="Screenshot 2025-10-22 153757" src="https://github.com/user-attachments/assets/522ef7ef-8188-4949-886a-edda1d188a39" />
+
+
 ## Gameplay
 
 The main objective of the game is to **prepare sandwiches according to customer orders**.  
